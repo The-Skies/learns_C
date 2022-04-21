@@ -84,6 +84,9 @@
     <ClCompile Include="main_20.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="main_21.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="content.txt">

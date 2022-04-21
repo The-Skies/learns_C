@@ -162,6 +162,7 @@
     <ClCompile Include="main_18.c" />
     <ClCompile Include="main_19.c" />
     <ClCompile Include="main_20.c" />
+    <ClCompile Include="main_21.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="content.txt" />
