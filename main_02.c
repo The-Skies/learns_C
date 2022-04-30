@@ -1,4 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1;
+#include <stdio.h>
+#include <windows.h>
 #include <string.h>
 
 //变量创建，可以在括号外面
